@@ -1,2 +1,2 @@
 # 100daysofML
-100 Days of Machine Learning Code
+100 Days of learning machine learning! 
