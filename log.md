@@ -5,4 +5,4 @@
 
 **Thoughts**: It was great to apply linear regression a concept that I had learnt in previous math classes to machine learning and come up with a real-life solution to a problem. I was surprised by how simple it was to actually implement the model and learnt that the real challenge was in cleaning, normalizing and scaling the dataset. 
 
-**Link of work**: 
+**Link of work**: https://github.com/tanster1234/100daysofML/blob/master/Work/Housing.ipynb
