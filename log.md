@@ -22,3 +22,9 @@
 **Thoughts**: This was quite math heavy as it required a deeper understanding of how the statistical princples and equations relate, didn't work on a dataset for today but rather just experimented with various methods of finding the best model. 
 
 **Link of work**: https://github.com/tanster1234/100daysofML/blob/master/Work/Training%20Linear%20Models.ipynb
+
+## Day 4: 19 July 2018
+
+**Today's Progress**: Read up on logistic regression but rather than trying to implement, learned about the mathematical theory behind it and read onwards about softmax regression.
+
+**Thoughts**: While I think I'm getting a solid understanding of various types of regression, I still need to understand which cases require what kinds of regression algorithms. I feel that to get a better grasp of which regression algorithm to use over one another may require further depth in the mathematics behind them. Will either read up more on that or move on in trying to implment these for various kinds of datasets. .
