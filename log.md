@@ -3,7 +3,7 @@
 
 **Today's Progress** : Implemented a linear regression model to predict housing prices with scikit and learnt about fine-tuning it via grid search, randomized search and ensemble methods. Followed tutorials from the textbook: Hands on Machine learning and used various medium articles to supplement theories that was hard to understand
 
-**Thoughts**: It was great to apply linear regression a concept that I had learnt in previous math classes to machine learning and come up with a real-life solution to a problem. I was surprised by how simple it was to actually implement the model and learnt that the real challenge was in cleaning, normalizing and scaling the dataset. 
+**Thoughts**: It was great to apply linear regression a concept that I had learnt in previous math classes to machine learning and come up with a real-life solution to a problem. I was surprised by how simple it was to actually implement the model and learnt that a challenging aspect was rather in cleaning, normalizing and scaling the dataset. 
 
 **Link of work**: https://github.com/tanster1234/100daysofML/blob/master/Work/Housing.ipynb
 
@@ -27,4 +27,12 @@
 
 **Today's Progress**: Read up on logistic regression but rather than trying to implement, learned about the mathematical theory behind it and read onwards about softmax regression.
 
-**Thoughts**: While I think I'm getting a solid understanding of various types of regression, I still need to understand which cases require what kinds of regression algorithms. I feel that to get a better grasp of which regression algorithm to use over one another may require further depth in the mathematics behind them. Will either read up more on that or move on in trying to implment these for various kinds of datasets. .
+**Thoughts**: While I think I'm getting a solid understanding of various types of regression, I still need to understand which cases require what kinds of regression algorithms. I feel that to get a better grasp of which regression algorithm to use over one another may require further depth in the mathematics behind them. Will either read up more on that or move on in trying to implment these for various kinds of datasets.
+
+## Day 5: 20 July 2018
+
+**Today's Progress**: Learned about support vector machines and implemented them on the moon's dataset in sci-kit learn's library. This was non-linear SVM classification and so used polynonmial kernel and Gaussian RBF Kernel to try and find the most optimal model. Grid search is one of the easiest ways to fine-tune the hyperparameters for the most optimal model. 
+
+**Thoughts**: I had heard about SVM before starting this however didn't know how to implement them. Now that I do I am glad I can add this tool to my toolkit in analyzing various kinds of datasets. Although which kind of SVM model to use and when is still a question. 
+
+**Link of work**: https://github.com/tanster1234/100daysofML/blob/master/Work/Support%20Vector%20Machines%20Examples.ipynb
