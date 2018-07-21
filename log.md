@@ -36,3 +36,9 @@
 **Thoughts**: I had heard about SVM before starting this however didn't know how to implement them. Now that I do I am glad I can add this tool to my toolkit in analyzing various kinds of datasets. Although which kind of SVM model to use and when is still a question. 
 
 **Link of work**: https://github.com/tanster1234/100daysofML/blob/master/Work/Support%20Vector%20Machines%20Examples.ipynb
+
+## Day 6 : 21 July 2018
+
+**Today's Progress**: Learned more deeply about how the SGD classifier and regressor works in the context of the MNIST dataset, also read up briefly on the basics of neural networks. 
+
+**Thoughts**: During my research into SGD explanations were either sometimes too mathematical or too basic, today I asked a ML expert to explain it to me clearly and I finally understood exactly what the concept of SGD is. He said that while SGD may be powerful it is not what is used in industry according to him. He suggested to read up on the Adam algorithm in the PyTorch library which uses an adaptive learning rate and many more features to make it a far more accurate algorithm to use than SGD.
