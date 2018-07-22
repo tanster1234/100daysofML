@@ -42,3 +42,9 @@
 **Today's Progress**: Learned more deeply about how the SGD classifier and regressor works in the context of the MNIST dataset, also read up briefly on the basics of neural networks. 
 
 **Thoughts**: During my research into SGD explanations were either sometimes too mathematical or too basic, today I asked a ML expert to explain it to me clearly and I finally understood exactly what the concept of SGD is. He said that while SGD may be powerful it is not what is used in industry according to him. He suggested to read up on the Adam algorithm in the PyTorch library which uses an adaptive learning rate and many more features to make it a far more accurate algorithm to use than SGD.
+
+## Day 7: 22 July 2018
+
+**Today's Progress**: Read up on Decision trees, how they work, the math behind them, the entropy involved and the advantages and disadvantages of implementing decision trees. 
+
+**Thoughts**: This wasn't very difficult to understand as I had come up on similar kinds of trees in programming algorithms, binary search trees for example. I had already implemented decision trees in Day 1 when I was working with the housing dataset, and now I have a clearer understanding of how they work. 
