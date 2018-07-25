@@ -48,3 +48,21 @@
 **Today's Progress**: Read up on Decision trees, how they work, the math behind them, the entropy involved and the advantages and disadvantages of implementing decision trees. 
 
 **Thoughts**: This wasn't very difficult to understand as I had come up on similar kinds of trees in programming algorithms, binary search trees for example. I had already implemented decision trees in Day 1 when I was working with the housing dataset, and now I have a clearer understanding of how they work. 
+
+## Day 8: 23: July 2018
+
+**Today's Progress**: Got a new project which involved analyzing fitness data from a tracker on the arm. The tracker has three sensors each each with three different measurements so a total of 9 data points. The project requires us to train a model which can classify whether an action is part of various exercises that the client has given us, such as hooks, jab crosses, jumping jacks etc. 
+
+**Thoughts**: It's nice to finally start working on a real project since I have a dearth of data, in fact I only have 10 repetitions of each exercise it's difficult to implement a really accurate model, so will most likely focus on logistic regression. 
+
+## Day 9: 24 July 2018 
+
+**Today's Progress**: Spent time visualizing the dataset using plotly and cufflinks and investigated which features/measurements were actually important to the specific movement. 
+
+**Thoughts**: This surprisingly took longer than I thought as I had to manually select and deselect the 9 features from a given exercise but it's definitely an important step of the process. 
+
+## Day 10: 25 July 2018 
+
+**Today's Progress**: Splitting data into training set and validation set and trying to go through data preprocessing. 
+
+**Thoughts**: Finding this more difficult as most tutorials I have read up till now focus on how to implement the algorithms and less on cleaning and preparing the data. Will need to spend more time on this. 
